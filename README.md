@@ -1,4 +1,12 @@
-<h1 align="center">Hey Im Adrian, a developer from Germany...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1>Hey Im Adrian, a developer from Germany...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+###
+
+- :star: Very young developer, whose trying to get fullstack
+
+- :heart: Love to collaborate with competent and friendly people around the whole world
+
+- :thought_balloon: "During a gold rush, instead of investing in gold diggers, invest in shovels" -André Kostolany
 
 
 <div id="header" align="center">
@@ -26,4 +34,6 @@
     <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   </div>
+
+--- 
 
