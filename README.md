@@ -29,7 +29,7 @@
 ---
 
 ###
-<div id="tools" align="center"><h1>:hammer_and_wrench: My Skills - Techonlogies I use:  </h1>
+<div id="tools" align="center"><h1>:hammer_and_wrench: My Skills - Technologies I use:  </h1>
 </div>
 
 <div id="badges" align="center">
