@@ -9,16 +9,28 @@
 - :thought_balloon: "During a gold rush, instead of investing in gold diggers, invest in shovels" -André Kostolany
 
 
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWxoZzFuOGZycDJtbG80bGE0aW5oNG96enY3enRieGZkMjBlemhoMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/i229PTC8BKt9V9RnwZ/giphy.gif" width="150"/>
-</div>
+---
 
-
-
+<h1>:mailbox: Connect with me!</h1>
+ <div id="container" align="center">
+    <a href="https://instagram.com](https://www.instagram.com/adrian.erff" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="discord.com/channels/swing_ger" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    </a>
+    <a href="https://github.com/adrian-on-github" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="mailto:adrian.hassan.ef@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+  </div>
+  
 ---
 
 ###
-<div id="tools" align="center"><h1>:hammer_and_wrench: Languages and Tools I use:  </h1>
+<div id="tools" align="center"><h1>:hammer_and_wrench: My Skills - Techonlogies I use:  </h1>
 </div>
 
 <div id="badges" align="center">
