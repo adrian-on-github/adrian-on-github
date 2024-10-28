@@ -16,9 +16,6 @@
     <a href="https://instagram.com](https://www.instagram.com/adrian.erff" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="discord.com/channels/swing_ger" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-    </a>
     <a href="https://github.com/adrian-on-github" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </a>
@@ -51,4 +48,5 @@
 
 ### <h1>:fire: My Github Stats :</h1>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adrian-on-githu&theme=transparent&hide_border=true&exclude_days=Sat&card_width=360&card_height=190)](https://git.io/streak-stats)
+<div align="center">![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrian-on-github&show_icons=true&theme=transparent)</div>
+
