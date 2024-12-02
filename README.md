@@ -49,10 +49,3 @@
 
 --- 
 
-<h1>:fire: My Github Stats :</h1>
-
-<div align="center" id="stats">
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adrian-on-github&show_icons=true&text_color=FFFFFF&icon_color=0366D6&theme=transparent)
-</div>
